@@ -1,0 +1,33 @@
+{
+  "post": [
+    {
+      "id": "3",
+      "title": "스트라디바리우스",
+      "content": "308년 된 스트라디바리우스 바이올린",
+      "img": "https://blog.kakaocdn.net/dn/dEz17Y/btssSCLAUXM/k5R6G70TZ2FIbDVVZzA9k0/img.jpg"
+    },
+    {
+      "id": "4",
+      "title": "한수진",
+      "content": "상위 0.2% 바이올린 연주자",
+      "img": "https://i.namu.wiki/i/4cZ7GHI6kmxl0crIFpc6N6Dr6SeDCYH1_VbaUQSN5hzR3Z4igvheE3PW7ytC_AktsnK3MbwfK6JYslXl-C42nnrXv78RSl7jg3CtkmgV_EUzDCp_lTGVM0CtRJvnrWi-KvSV3BLZCIaiD84IYOWFNA.webp"
+    },
+    {
+      "id": "5",
+      "title": "Servo Motor",
+      "content": "폐쇄회로 엔코더를 기반으로 정밀 위치제어 가능한 AC 모터의 종류 중 하나",
+      "img": "https://bsg-i.nbxc.com/product/1a/ea/27/7ef84981347ae452b164fad059.jpg@4e_500w_500h.src%7C95Q.webp"
+    },
+    {
+      "id": "6",
+      "title": "ㅇㄻㅇㄹ",
+      "content": "",
+      "img": "ㅁㄴㅇㅎㅁㄴㅇ"
+    }
+  ],
+  "kiosk": [
+    {
+      "id": "3449"
+    }
+  ]
+}
